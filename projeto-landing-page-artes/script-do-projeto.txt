@@ -41,27 +41,23 @@ A ultima página possuira uma imagem isolada com um footer abaixo
 possuindo as mesmas opções de acesso do header, simples mas
 bem apresentavel.
 
+
 *Cores -
 
 /COR DE FUNDO/
 
-B8F1B0
+EEEEEE
 
-/COR PRIMARIA/
+/COR DE FUNDO - IMAGENS/
 
-00FFAB
+151515
 
-/COR SECUNDARIA/
+/COR VERMELHA/
 
-14C38E
+C73659
 
-/COR BRANCA/
-
-E3FCBF
 
 *Fontes - 
-
-/FONTE PRIMARIA/
 
 Gang of Three - dafont - BAIXADO - para títulos 
 Kanit - GoogleFonts - IMPORTADO - para parágrafos - link: (https://fonts.google.com/specimen/Kanit)
