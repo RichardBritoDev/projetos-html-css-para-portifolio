@@ -1,0 +1,76 @@
+PRIMEIRO PROJETO - HTML & CSS - RichardBritoDev
+
+- Landing Page {
+
+*Sobre oque será a landing page - 
+
+Divulgação do meu trabalho como artista no instagram, 
+algo utilizando minhas artes como foco.
+
+*Planejamento geral da página - 
+
+/PRIMEIRA PARTE/
+
+Terá um header simples mas bonito, com um foco principal
+na arte que dominará a primera vista. Possuindo um título 
+de destaque ao lado da arte. O fundo será em branco, com
+detalhes em vermelho, para que combine com a arte. O header 
+tera suas opções de interação em caixas com box-shadow solido.
+Abaixo do título que se encontrará na primeira parte, terá uma
+breve descrição sobre meu trabalho como artista amador.
+
+/SEGUNDA PARTE/
+
+Terá um acervo de por volta de quatro artes que eu julgar
+dignas de estarem lá, e que não distoem muito das cores
+propostas de início. Algo simples, mas bem feito. possuindo
+alguma descrição simples de cada arte presente.
+
+/TERCEIRA PARTE/
+
+Uma página onde serão divulgadas minhas redes sociais, sendo
+elas: GitHub, Instagram e Linkedin. Possuindo os três icones
+das mesmas em três divs diferentes centralizadas no meio da 
+página, com um space-between ou space-around. De preferência
+que os icones estejam com cores modificadas para não prejudicar
+a armonia de cores do site.
+
+/QUARTA PARTE/
+
+A ultima página possuira uma imagem isolada com um footer abaixo
+possuindo as mesmas opções de acesso do header, simples mas
+bem apresentavel.
+
+*Cores -
+
+/COR DE FUNDO/
+
+B8F1B0
+
+/COR PRIMARIA/
+
+00FFAB
+
+/COR SECUNDARIA/
+
+14C38E
+
+/COR BRANCA/
+
+E3FCBF
+
+*Fontes - 
+
+/FONTE PRIMARIA/
+
+Gang of Three - dafont - BAIXADO - para títulos 
+Kanit - GoogleFonts - IMPORTADO - para parágrafos - link: (https://fonts.google.com/specimen/Kanit)
+Roboto - GoogleFonts - IMPORTADO - para partes não estilizadas - link: (https://fonts.google.com/specimen/Roboto)
+Arial sans-serif - FONTE PADRÃO - para reserva
+
+
+
+
+
+
+
