@@ -60,7 +60,7 @@ nav > a {
 nav > a:hover {
     color: var(--cor-vermelha);
     font-size: 22px;
-    transition: 0.5s;
+    transition: 0.25s;
 }
 
 .container {
@@ -124,19 +124,56 @@ main > p {
 }
 
 .logos {
+    position: relative;
     background-color: var(--cor-vermelha);
-    margin: auto;
-    width: 70px;
-    height: 70px;
+    width: 60px;
+    height: 60px;
     border-radius: 50%;
+    margin: 70px 0px 70px 0px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 
-.logo > img {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+.logos:hover {
+    width: 70px;
+    height: 70px;
+    transition: 0.25s;
+}
+
+.logos > img:hover {
+    width: 45px;
+    height: 45px;
+    transition: 0.25s;
+}
+
+.logos img {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
 }
 
 footer > nav {
     font-family: var(--fonte-titulos);
+}
+
+#rodape {
+    background-color: var(--cor-de-fundo-imagens);
+    padding: 10px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: sans-serif;
+    color: var(--cor-de-fundo);
+    font-weight: bold;
+    font-style: italic;
+}
+
+#rodape > a {
+    text-decoration: none;
+    color: var(--cor-vermelha);
+}
+
+#rodape > a:hover {
+    text-decoration: underline;
 }
