@@ -75,7 +75,8 @@ nav > a:hover {
 
 header > img {
     margin-top: 30px;
-    margin-bottom: 30px;
+    width: 100%;
+    background-attachment: fixed;
 }
 
 img {
@@ -84,8 +85,10 @@ img {
 }
 
 main {
+    padding:20px 0px 20px 0px;
     background-color: var(--cor-de-fundo-imagens);
     color: var(--cor-de-fundo);
+    box-shadow: 0px 0px 50px 80px var(--cor-de-fundo-imagens);
 }
 
 main > h2 {
@@ -113,6 +116,8 @@ main > p {
 
 #redes {
     min-height: 650px;
+    border: var(--cor-de-fundo-imagens) solid 1px;
+    margin: 0px 20px;
 }
 
 #redes > h2 {
@@ -154,8 +159,16 @@ main > p {
     transform: translate(-50%, -50%);
 }
 
+#redes > h2 {
+    margin-top: 100px;
+}
+
 footer > nav {
     font-family: var(--fonte-titulos);
+}
+
+footer {
+    border: var(--cor-de-fundo-imagens) 1px solid;
 }
 
 #rodape {
