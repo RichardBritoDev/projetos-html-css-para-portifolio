@@ -2,12 +2,12 @@
 
 @font-face {
     font-family: go3v2;
-    src: url(../projeto-landing-page-artes/fontes/go3v2.ttf);
+    src: url(../fontes/go3v2.ttf);
 }
 
 @font-face {
     font-family: kanit;
-    src: url(../projeto-landing-page-artes/fontes/Kanit-ExtraLight.ttf);
+    src: url(../fontes/Kanit-ExtraLight.ttf);
 }
 
 *{
@@ -55,6 +55,12 @@ nav > a {
     color: var(--cor-de-fundo-imagens);
     font-size: 20px;
     padding: 15px;
+}
+
+nav > a:hover {
+    color: var(--cor-vermelha);
+    font-size: 22px;
+    transition: 0.5s;
 }
 
 .container {
@@ -129,4 +135,8 @@ main > p {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+footer > nav {
+    font-family: var(--fonte-titulos);
 }
